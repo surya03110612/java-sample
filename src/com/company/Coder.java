@@ -4,7 +4,7 @@ public class Coder
 {
     public static void main(String[] args) {
         Laptop laptop = new Laptop();
-        System.out.println("coder is coding! from feature 1");
+        System.out.println("remote changes check coder is coding! from feature 1");
         laptop.compile();
 
     }
